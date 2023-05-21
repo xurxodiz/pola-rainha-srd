@@ -1,8 +1,3 @@
----
-Title: "Pola Raíña"
-Placing: 0
----
-
 # Pola Raíña
 
 > _Pola Raíña_ é un xogo de amor, deber e devoción.
